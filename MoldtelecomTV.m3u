@@ -1,0 +1,381 @@
+#EXTM3U
+#EXTINF:0, MoldTelecomTV 29.07.2022
+http://212.0.215.115/mpegts
+#EXTINF:0, Moldova1
+https://v1.trm.md/static/streaming-playlists/hls/53ce5925-b71d-41de-8ac3-3b4891a01445/0.m3u8
+#EXTINF:1,Jurnal TV HD
+https://live.cdn.jurnaltv.md/JurnalTV_HD/index.m3u8?token=e670a1a3c9cac44b3c6d221f01680b7113b2239c
+#EXTINF:0, Pro TV Chisinau
+http://212.0.215.115/ProTV/mpegts
+#EXTINF:0, TV8_HD
+https://live.cdn.tv8.md/TV7/index.m3u8?token=a7c604746ca837c24e198160569ce04a7111d113
+#EXTINF:0, PublikaTV
+https://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0, TV Rain HD
+https://1040819719.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:1,Canal 2 HD
+http://livebeta.publika.md/LIVE/2/index.m3u8
+#EXTINF:1,Prime HD
+https://livebeta.publika.md/LIVE/1/6810.m3u8
+#EXTINF:1,TVR Moldova 
+https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",TVRIasi
+https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",TV6
+https://streamtvc.tk/ctv/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",CredoTV
+https://5bb3298db4821.streamlock.net/ctv/smil:livecredo.smil/chunklist_b762000.m3u8
+#EXTINF:0, Familia
+http://212.0.215.115/SET/mpegts
+#EXTINF:1,Moldova 2 HD
+https://v1.trm.md/static/streaming-playlists/hls/78dc278f-1106-4e85-8714-20c9283494e5/0.m3u8
+#EXTINF:0, Canal 3
+https://livebeta.publika.md/LIVE/3/index.m3u8
+#EXTINF:0, Thttp://212.0.215.115/THT/mpegts
+#EXTINF:0, PEH TV 
+http://212.0.215.115/DTV/mpegts
+#EXTINF:0,TNT Comedy
+https://sc.id-tv.kz/tntComedy.m3u8
+#EXTINF:0,STS
+https://sc.id-tv.kz/STS.m3u8
+#EXTINF:0,STS 1
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:0,Sarafan TV
+http://31.148.48.15/Sarafan/index.m3u8
+#EXTINF:0,365 Дней
+http://89.223.46.189:8080/365-dney/index.m3u8
+#EXTINF:0,Galaxy TV
+http://95.217.196.109:8081/russia/galaxy/index.m3u8
+#EXTINF:0,Живи ТВ
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:0,Кухня ТВ
+https://sc.id-tv.kz/kuhnya_hd.m3u8
+#EXTINF:0,Subota
+http://31.148.48.15:80/Super/index.m3u8
+#EXTINF:0,KVN TV
+http://31.148.48.15/KVN_TV/index.m3u8
+#EXTINF:0,Ren TV
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:0, Primul in Moldova 
+https://video.a-tv.md/live/primul.m3u8
+#EXTINF:0, FREEDOM UA
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0,360TV Russia
+https://balancer.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:0,  NTV 
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:0, 1+1 Ukraine 
+http://212.0.215.115/1+1/mpegts
+#EXTINF:0,   RTR No signal
+http://212.0.215.115/RTR/mpegts
+#EXTINF:0, Espresso TV (Suspendat Emisie - RTR Moldova)
+http://212.0.215.115/EspresoTV/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RTRPlaneta
+https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941&ext=.m3u8
+#EXTINF:0, ITV
+http://212.0.215.115/ITV/mpegts
+#EXTINF:0, N4
+https://web.sats.gstv.tech/cpl11/da8df281-1165-440a-8c86-959f71b695b6/N4web.m3u8
+#EXTINF:0, Accent TV
+http://212.0.215.115/AccentTV/mpegts
+#EXTINF:0, Mega TV HD
+http://212.0.215.115/STS/mpegts
+#EXTINF:0, Cinema1 HD
+http://212.0.215.115/cinema1/mpegts
+#EXTINF:0,  Euro TV
+http://212.0.215.115/EuroTV/mpegts
+#EXTINF:1, group-title="FARA LICENhttps://streamtvc.tk/ctv/stream.m3u8
+#EXTINF:0, GRT_SD
+http://212.0.215.115/GRT/mpegts
+#EXTINF:0, REN Moldova HD 
+http://212.0.215.115/PEHTB/mpegts
+#EXTINF:0, Canal 5
+http://212.0.215.115/Canal5/mpegts
+#EXTINF:0, AgroTV
+http://212.0.215.115/AgroTV/mpegts
+#EXTINF:0, Kanal D
+https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8
+#EXTINF:0,  Orhei SD
+http://212.0.215.115/OrheiTV/mpegts
+#EXTINF:0, TVC 21
+http://212.0.215.115/TVC21/mpegts
+#EXTINF:0, 10TV
+http://212.0.215.115/10TV/mpegts
+#EXTINF:0, Vocea Basarabiei HD
+https://storage.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:0, RLive TV
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:0, Axial 
+http://212.0.215.115/AxialTV/mpegts
+#EXTINF:0, CTV_SD
+http://212.0.215.115/Cotidianul/mpegts
+#EXTINF:1,Cotidianul TV - CTV / Prima TV
+http://212.0.217.42/live/disk1/CotidianTV-CTV_35_AR2/SA/CotidianTV-CTV_35_AR2.m3u8
+#EXTINF:0, Orizont TV
+http://212.0.215.115/OrizontTV/mpegts
+#EXTINF:0, Privesc EU
+https://cachestar.privesc.eu/liniar/moldova/playlist.m3u8
+#EXTINF:0, KINO TV
+http://212.0.215.115/KinoTV/mpegts
+#EXTINF:1,http://212.0.213.132:8082/Kino_TV/index.m3u8
+#EXTINF:0, http://212.0.215.115/Kinohit/mpegts
+#EXTINF:1,http://212.0.213.132:8082/KinoHit/index.m3u8
+#EXTINF:0, http://212.0.215.115/KinoSemya/mpegts
+#EXTINF:1,http://cache2.multiscreen.moldtelecom.md/live/eds/Kinosemya_sd_vs25/HLSv3/Kinosemya_sd_vs25.m3u8
+#EXTINF:0, VIP Comedy
+http://50.7.222.58:80/VIP_Comedy/index.m3u8
+#EXTINF:0, TV 1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0,TV1000 Action
+https://sc.id-tv.kz/TV1000Action.m3u8
+#EXTINF:0, TV1000 Ru Kino HD
+https://sc.id-tv.kz/TV1000RuKino.m3u8
+#EXTINF:0, ACASA
+http://212.0.215.115/PRO2/mpegts
+#EXTINF:0, NationalTV
+http://212.0.215.115/National/mpegts
+#EXTINF:0,Amedia 1
+https://sc.id-tv.kz/A1.m3u8
+#EXTINF:0,Amedia 2
+https://sc.id-tv.kz/A2.m3u8
+#EXTINF:0, Fox CIS
+http://212.0.215.115/Fox/mpegts
+#EXTINF:0, Regional FOX LIFE 
+http://212.0.215.115/FoxLife/mpegts
+#EXTINF:0, StarCinema
+http://212.0.215.115/StarCinema/mpegts
+#EXTINF:0, Star Family
+http://212.0.215.115/StarFamily/mpegts
+#EXTINF:0,DOMKINO 
+https://sc.id-tv.kz:443/DomKino.m3u8
+#EXTINF:0,Kino Comedia 
+https://sc.id-tv.kz/Kinokomediya_hd.m3u8
+#EXTINF:0,Kino Mix
+https://sc.id-tv.kz/Kinomix_hd.m3u8
+#EXTINF:0,Kino Premiera
+https://edge02.smart.az/o8/kinopremiera/playlist.m3u8
+#EXTINF:0,Kino Svidanie
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:0,Kino Semia
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:0,Kino Serial
+https://sc.id-tv.kz/Kinoseriya_hd.m3u8
+#EXTINF:0,Kino UJAS
+https://sc.id-tv.kz/Kinouzhas_hd.m3u8
+#EXTINF:0,Kino Hit
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:0, Nase Novoe Kino
+https://sc.id-tv.kz/Nnk_hd.m3u8
+#EXTINF:0, FILM_UA_DRAMA
+http://212.0.215.115/FilmUaDrama/mpegts
+#EXTINF:0,PlutoTV Commedia
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:0,PlutoTV Crime
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileFloor=&profileLimit=&embedPartner=samsung-tvplus
+#EXTINF:0, Minimax Ro
+http://212.0.215.115/Minimax/mpegts
+#EXTINF:0, GurinelTV
+http://212.0.215.115/Gurinel/mpegts
+#EXTINF:0, Mult HD
+https://sc.id-tv.kz/Mult.m3u8
+#EXTINF:0,Мама
+http://31.148.48.15/Mama/index.m3u8
+#EXTINF:0, Nickelodeon RO
+http://212.0.215.115/Nick/mpegts
+#EXTINF:1,Nickelodeon HD (rus)
+https://sc.id-tv.kz/Nickelodeon.m3u8
+#EXTINF:1,Nickelodeon Junior (Rus)
+https://sc.id-tv.kz/NickJr.m3u8
+#EXTINF:0, Disney Channel Romania
+http://212.0.215.115/DisneyChannel/mpegts
+#EXTINF:0, Disney Channel Russia
+http://31.148.48.15/Disney_Channel/index.m3u8
+#EXTINF:0, TraLaLa 
+http://212.0.215.115/TraLaLa/mpegts
+#EXTINF:0, EuroSport 1 (Rus)
+https://sc.id-tv.kz/Eurosport_1HD.m3u8
+#EXTINF:0, EuroSport 2 (Rus)
+https://sc.id-tv.kz/Eurosport_2HD.m3u8
+#EXTINF: -1 tvg-logo="https://iptvz.cf/setanta-sports1.png" group-title="Moldtelecom", Setanta Int 1
+http://212.0.215.115/Setanta/mpegts
+#EXTINF:0, National Geographic 
+http://212.0.213.132:8082/National_Geographic/mpegts
+#EXTINF:0, Discovery Channel
+https://sc.id-tv.kz/Disc_chHD.m3u8
+#EXTINF:0, Animal Planet 1
+http://31.148.48.15/AnimalPlanet/index.m3u8
+#EXTINF:0, Discovery Turbo Xtra HD
+http://212.0.215.115/DTX/mpegts
+#EXTINF:0, Viasat Explore
+http://212.0.215.115/Explorer/mpegts
+#EXTINF:0, Охота и рыбалка
+https://sc.id-tv.kz/Ribalka_Ohota.m3u8
+#EXTINF:0, Travel+Adventure
+http://212.0.215.115/Travel/mpegts
+#EXTINF:0, Travel Mix HD
+http://212.0.215.115/TravelMix/mpegts
+#EXTINF:0,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" group-title="Ungrouped" -  Info Moldtelecom
+http://212.0.215.115/Cinethronix/mpegts
+#EXTINF:0, TLC Pan Regional SD
+http://212.0.215.115/TLC/mpegts
+#EXTINF:0, Kvartal TV
+http://212.0.215.115/KvartalTV/mpegts
+#EXTINF:0,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" group-title="GLOBECAST" -  Trinitas TV HD
+http://212.0.215.115/TrinitasTV/mpegts
+#EXTINF:0,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" group-title="GLOBECAST" -  Trinitas TV HD
+https://cache2.multiscreen.moldtelecom.md/live/eds/Trinitas_TV_HD/HLSv3/Trinitas_TV_HD.m3u8
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABLFBMVEX///8MUZ/81APo8/sAPZH/1wD/2AD/1QAMUKD90wMAT6IMUZ7//v8ASp0ATJ0ASJsATqMARpQAQ5UATKMAQpYARpIASJgARoj5//8ASYD92hQAQpAASZn///D30ABcd2P22CLkzjEARHXv+//p0SqKlVU2YG9qf2DW5O6vrUXIvT8nWHuEkVnTxDkrWXOQqcacoEwASYUiW54WUXuqwta3sj3//uT++9dDcalPeaxzlLvL3OovY534/fZYf65Yclnm1FX02Ub34m5NbGX+9KozXW4VUpeIklF4mcBIbHF5i2CUnFCHkl2urU6iuNDKwD2Ho747ZGvZyDdwg2y6zd1uglu1skhKa2bIuSsOTHGbnEFGaXqSkkQ1Z6j787T56Yn45nf++8r331QAPJdWpoaBAAANbUlEQVR4nO2dCXfbNhLHI9kkISoUJVGHRWUjKqZP+VbcOrY3aerEie9Yje023R6b/f7fYQGSkngAIADKkZqH32v7Xhsd/GuGM4MZgH3yRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEsl0eRr8LfkOWJibMSaqbm77oDI/cxRfba9ORt/C4bxZArmZA5TM+VdHExC4eGyO5M2SzmIR/qNUPfx3ZoWvzWlrodF489OPGQUe1aYtggJorDj5txklHhrTlkEGPFtxtHzh7b8yKdybpXsvhtGBAvP5ws9ZBC6e6tPWQaR84gnM55+/y6BwrjizNtTfu77AvHqxmMWGs6gQgBwo97q+wILWfXGdwYjHs6gQor/YVPKBCZfM0wVxha9L09aCBTTv1UCg5rZA9aW4wuuZTPigsjMUmFc3jFzptbjC2cz45oY9FAjvQhju2+KxZnHiwRSg8jZc6hbRXyD4FyasNw4KMb4JP1jwv2Rx04NHCjVALxmGaZqGofN+g748zBPeXYgydhY3/fjsMdQZzf7Z+cXV/dqXpc7Wbr0cNWyKwP5gGEZRIPXLynlxN31ZnbjAcmPrct2xVVVRFFVV7e5Vp2UwGxI018cCtW7fL7oyuOnc/IT16e2HfUcdXyS8TMXufugzagSVL+r4rf5dCK1feiWscGGytTcwtvZtRfPCRCEkUnU3mmWWbxqFUe/dbn9YN7fFOzcTzfmgvuGGzRfWeLPMsFIL1hNDE16M0nVVvHLbnmDO11v3toYVCFGclUpavNG3xmEUVqRuf/Tq0oGgvqdPPk8u5+u9G5WkD5nRXqrTHVVvbYY9AJpwnFirwm662J6YwP4m3kNHNrE/NGgSQX0t/Atpbi+0ejXF3fSPCYUa0PQsWIiEmBj2He1ebCzZ4RerO1b444+FFR5OJueD+hXNRQOzOGdl4icYnehN7PQj5VBbuEE8oZxvrNgkXWGJ3RaIBxvvX4uhRf3QhI3Iy8xtUYWrE8n5er9LjKLR6ybE7vhdrDm9aA+pJO6m7cw3IvyA0IqOjrOM9VNQv49+gHIV/ymqwm76ipTzgQ5YxetbDpMJ0ZXXcR9gfoj9Qs5WvA0o7qafCH4Ddpd79Wds7UaD1YTQ+xKXDrFOYqWCspa4KrAnOs4l5HzQGti2u7NcJ0e/0GtdRhOiPJ7MGPEog5w5+TsIu+kcPudDx0PX4+w/VEZfRnJaiymQBkYcNJM/ULxWUNYwvizupvjlBczg3tcqzv1yJcVXrTVqNRMzz1ns02K1jPeaB4zngFNRhYf4UDNqqyvO1ZapU2pm0NxkdlLUPbOib29sxD1AWa/gvmdedGJ63cB9XHgpo7oXrRJ5YaD3HHaBMJpGv884ScRh+wHnNMD4KKhwlVTVmHfDCKep3RVyyLHOWCOpb6Bm+Jcq9xJRKvaKscQ9oeb3U0pL0TwfNy7t9VuT8LryLzwKtUErZCE9uN0jJuzgq4Jc7UgwXxwQc34FlfsFf7WgODstC+upxjmXwnFvItreHplwk2DCnHEopA/mfOLyIrpiUAedCu67jSU+haGKM+QlQwrqnYX5Eu9yxNwU5nzy8kIPN/egq67hmmYlboXF4cc/+FGmEG5bdZuEarGYq30WUzhHWUBFGrTQjN2VZHIs8Xlp9wWIf/hYYMGbxZBsKOqm1JZiOVpRafZVa5QbA1NwR5rg7aC+n3xj5DZNcCrY/Ka2FOP5Su2emN41jH6WMle20FAu8N5bvcC8j7iC9BB1U/oYsXEZjQaKc9GM/Mz6b65G6c7EGK38jDe4aha79hghOqM5onYyQp12T0ZBU2+2jNB1cFZtl36oLG/hKiHMsilyLYJuukhvZILd9Xjt766EG4MWQxdqbKRb38cTCwoP+5Ze5QvMaLwiIWWMCHrxLoxm7+yOL6Xc4Vk91dEb/UybcG1lP6VrLOqmaS1F6yThUep6rzwMNqDJ1ofy3rdkoLdhUj2CULCFfuy6mJu+rBbpH2xuJIsrGFNhUERvBOxVTdBDKyd/Mu9PB/iCLURNbJRIayn6M3hMw1dzNuqBGfXkAoGA3wb13L6QDL/qOalgGyHopgspm6OK8drGl2hfDW/GBi614YzkomQQrQXDf9pK7e4BwYl3+hixfItpGKo3ns8B9AOwdYQ/oJKsSmjNqTvP0sb9QHTiTR0j+n5qXmJig9K99QIHSziFXokWRkV/AoCrEJz3DM1LwYk3w9YhUNkPhksRiW7H9HbNMPmpi5qE+jKhfazsE/opUcQm3iw7FvQWLido9kYVGRFbRoctiELTGwt9TPKO9rE7qXEGITjxZtmxoGNDPEz+dTQH01vrdCtq9jlKL/EJxfjPu4lOKoaiqJsy7fg28Z6ornmVuN6iWlFz7lCl1yCmTrgwZJuTiE28r1nGiPoufpCt7ntrOn13h7JTodtBP6LVIc5w3B7bkERw4r1aZfn9dFzKQBJvPImgsuKqyRegW9De76F6LLLbIvYTXGHbwBjENmYsYHtMCUg+pgy2vILS6F85SY2KOkDND4DWWcT+v3PCMAPyEZt4E1uKEXDtTV9E1x996rX3O66qaEPj5TVFtTfvdssAbcKskJdZmIkNETE3/UTq98YkEpOZe2Z5jRv9WWtlf4C27iFsd3Pnth6EEGzREMAcZ3KiE2/WrUMmKRZq7kOwzw6UrdZy53Lp4uJy5aFXt4YBxMAvKHycHse0XchN5xjvc7BLqkA114uWXhEHdMsyDMOyyuP4qG91yUM45R47/SYgNEpk3qVonZBcTXM6lKyqJ3ohYVKXvhHQxJsf5l2K1TWV0FiDEokVPKjSmjlat8WYDH1qIm7KfDKBvNwtQImk0tJMzEHDKF+YStLxp3G76dO0lmL8YslWxF9q+YG6HyWtxRZHaOLNfjKBEGwKgUTcvUhpc3hJc+C12JgvQHDizZbzEbTlruacJK2otwiFQsBwTz47xicBhawnE0B0Q30cxX0wctHWHepjYfpOY3DbZ1IuQiSacuxSLBMzRsGTGIv8mF5k9Ee5SW0iJhSKuCnzyQRooMo+xes0931EooUdwYQITh1wIbIxg+dkQvmWcNH+yD8isXzraoU8rj06hLBhkQIoCk28vZyf0vwe0qYVKHCl0Rtdc/rW0yCSciIySuQ5mUC+E32Jg+GCXW9RfwsEfyRFeG7Kufnkc439pwTNG6plFLTqRyd6m6TG0xj7d5Ej5SJLKK6TCRZ+eOSB7jhlEzU2cPtl4i/WBrsi25RBUaAhdcxxRChtT2kBWREKTJ8sKjtMjeAENQGFXA+RML/Q7q+CZ8W2JzBlxM/YCE4wL6DwJc8RIf0szTxK91c1n6pwdMiQFxEbcp1MgPV3WpDUWDbWKusCTgoE70O+kwnGBcfOYDJoDxRgzMIhgYLNfeLJBBxwhcG8iYaCzV11+4iNu0knE7AAxnMydDRXKFfkSmL7FPlOI5q/TsBNUZNNRKLgpm/CyQSSQuZzJBTUS5GSDcyLnu7mOvhc6kxAoU05sIcXB/82TwV38BFPJhC+q8++FYqE9+ALrkgKSmblcPHJU8EHPjKNEUff1WTbgEFDuakPDcPyjcCotg+uszx0kHgyAUv9KnOo4WmUAqNWP3yZ8ZmKfA87MS4z34g2cdt6TF2pOn+8HY6foo8lZW8p5lCbl7Axhp30Lhsq0Mxq8XUm3wzxiSd267+5WW3opHXZYGCpHn/8nOF5XzG4cn72UKMMqEM96Jv1g+3VDE/CSkI7mZDEQk3FLG4aP+YVkWdWm6+zBpYkfA87sb5kDDXqEuG+h4Fl79PRRI03hOthJxZ1ZMaiEDcYhVmhPbHAkoTrAWc8G7yx2L/HFKJnz+4dTjCwJGEfI+bQEWWes5VJxqe8/B2ejxBYkqScTIj94v2MCgfjTcHQN08fIbBg4Mn5oJ5N4ei0aMlsw8DymL4ZgusBZxX2g/hYhWiPCTTe/MH1hJ5tzQLlNCJG4UDLlA53aub86eMGliRcLcVKpkZGQfvPH9uTeGg3Hwun30RhofD8+U/vfvjm8hA8Ob9BmwVT5Tk///lD9ueRi8EzRhRRCOW9/eu/2R5inQ2eh5ryKkS++fXdj9OUh55AwBFqeBQWkPH+/nOq6gI4lhdpCkOHtAvQeFP1zRAcY8QKZa9TRN00A0sSjpYiLVsE20u8wBL1zan/v204Wopp+TAWWKYubQj7GLHSJZ9Th8ZzoW9OWwwW9uVFJTFgG+p9Pu2kR4V9jNjGrZ68wPJuhgJLEuaWImgmFPqBZTZ9cwzryYQcaEUVzkDFwghrztdDT35AgeXvKS0W+IHLC7YzQsNNmEjeDAeWJCwtRe98s7dDEQaWr/8Y4wWsMs7zrTsbGW/mA0uSBab/eQkw/nf+9a9IYJmZoiWV7dQjpcCs7R1+nuWcR2eR2qwBpWrl8XvTj8w1Memjafq36U0/MkFtGnNWNDd5pKHXN2fxtBRViHZ61F99y970YzN3Gk6KfmDxe9P/nICZwuJhzUDP9wPfRWDBc3R4Wm80Gt9o6DUdFuZWV+e+R+PF+G5uPIlEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCL5x/B/9t6ChvBf6roAAAAASUVORK5CYII=" group-title="DigiTV" -  SperantaTV
+http://212.0.215.115/SperantaTV/mpegts
+#EXTINF:0,AlfaOmega
+https://5b6cade28002a.streamlock.net/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0, CNL
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/tracks-v2a1/rewind-7200.m3u8
+#EXTINF:0, http://212.0.215.115/Soiuz/mpegts
+#EXTINF:1,http://212.0.217.42/live/disk1/Soiuz_555_AR2/SA/Soiuz_555_AR2.m3u8
+#EXTINF:0, Euronews Russian
+http://212.0.215.115/Euronews/mpegts
+#EXTINF:0, Euronews Romania
+http://212.0.215.106/Euronews_Ro/mpegts
+#EXTINF:0, Euronews English
+http://212.0.215.115/Euronews_En/mpegts
+#EXTINF:0, Euronews Italia
+https://3d48917864744271986248c38e797ee2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_EuroNewsLive/playlist.m3u8
+#EXTINF:0, N24 Plus
+http://212.0.215.106/N24plus/mpegts
+#EXTINF:0, Romania TV
+http://212.0.215.106/RomaniaTV/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",AgroTV.RO
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",NasulTV
+https://5ab29cc78f681.streamlock.net:443/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",KapitalTV
+http://82.78.112.21:1935/ktv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",ProTV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",Intermedia TV
+https://transmisiuni.ro/media/intermedia1/playlist.m3u8
+#EXTINF:0, Bucuresti TV
+http://212.0.215.106/BucurestiTV/mpegts
+#EXTINF:0, Tele Moldova+
+http://212.0.215.106/TeleMoldova+/mpegts
+#EXTINF:0, FREEDOM
+http://212.0.215.115/UATV/mpegts
+#EXTINF:0, 1+1 Ukraine
+http://212.0.215.115/1+1/mpegts
+#EXTINF:0, France 24 SD (en Francais)
+http://212.0.215.115/France24fra/mpegts
+#EXTINF:0, France 24 SD (in English)
+http://212.0.215.115/France24eng/mpegts
+#EXTINF:0, DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:0,DW English HD
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:0,Rai 3 Italia
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0,La7 Italia
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",MIRTV
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0, Current Time
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+#EXTINF:0, Jibek Joly TV 
+https://ikomg3.s.llnwi.net/test123/master.m3u8
+#EXTINF:0, NorocTV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:0, U tv
+http://212.0.215.115/UTV/mpegts
+#EXTINF:0, Zona M
+http://212.0.215.115/ZonaM/mpegts
+#EXTINF:0,Ru TV Moldova
+http://212.0.215.115/RuTV/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RUTV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+#EXTINF:0, 1 HD
+https://sc.id-tv.kz/1hd.m3u8
+#EXTINF:0, THT Music
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RussianMusicBox
+https://musicru.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RussianMusicBoxGOLD
+https://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",Muzica Pervogo
+https://sc.id-tv.kz/MuzikaPervogo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",LiraTV
+https://cloud3.streaminglivehd.com:1936/Liratv/Liratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RadiohitRU
+https://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",ShansonTV
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",RadioShansonTV
+https://chanson-video.hostingradio.ru/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:0, BusuiocTV
+http://212.0.215.115/Busuioc/mpegts
+#EXTINF:0, Favorit TV
+http://212.0.215.115/Favorit/mpegts
+#EXTINF:0, Etno
+http://212.0.215.115/EtnoTV/mpegts
+#EXTINF:0, Taraf TV
+http://212.0.215.115/TarafTV/mpegts
+#EXTINF:0, Tezaur Folc
+http://tezaur.mlbfan.org/tezaur/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",TezaurRO
+https://testcam.go.ro:8080/hls/tezaurtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",BucovinaTV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="" tvg-country="MD" tvg-url="" group-title="",KissTV
+https://tv.broadcasting.ro/memfs/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8
+#EXTINF:0, Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:0,Radio Bruno TV Italia
+https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
+#EXTINF:0,Deejay TV Italia
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:0, Radio Noroc
+http://live.noroc.tv:8000/radionoroc.mp3
+#EXTINF:0, Radio Plai
+http://stream.radioplai.md:8000/live
+#EXTINF:0, Maestro FM
+http://live.maestrofm.md:8000/maestro
+#EXTINF:0, Radio Pro Popular
+http://live.radiopropopular.com:9998/;stream
+#EXTINF:0, Radio Taraf RO
+http://live.radiotaraf.ro:8181/
+#EXTINF:0, Radio Popular Romania
+https://asculta.radiopopular.ro:7777
+#EXTINF:0, Radio Bucovina
+http://live.radiobucovina.ro:8000/
+#EXTINF:0, Elita TV SD
+http://212.0.215.106/ELITATV/mpegts
+#EXTINF:1,Soroca TV
+http://188.237.212.16:8888/live/cameraFeed.m3u8
+#EXTINF:0, StudioL
+http://212.0.215.106/StudioL/mpegts
+#EXTINF:0, DrochiaTV 
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:0, TV Prim
+http://212.0.215.106/TVPrim/mpegts
+#EXTINF:0, MediaTV
+http://212.0.215.106/MediaTV/mpegts
+#EXTINF:0, Canal Regional
+http://212.0.215.106/Regional/mpegts
+#EXTINF:0, NTS 
+http://212.0.215.106/NTS/mpegts
+#EXTINF:0, ATV SD
+http://212.0.215.106/ATV/mpegts
+#EXTINF:1, CHISINAU LIVE TEST
+http://212.0.215.106/IPcam1/mpegts
+#EXTINF:1, CAHUL LIVE TEST
+http://212.0.215.106/IPcam_Cahul/mpegts
+#EXTINF:1, BALTI LIVE TEST
+http://212.0.215.106/IPcam_Balti/mpegts
+#EXTINF:1, SOROCA LIVE TEST
+http://212.0.215.106/IPcam_Soroca/mpegts
+#EXTINF:0, Ungheni LIVE Web Camera
+http://212.0.215.106/Unghenilive/mpegts
+#EXTINF:0, Orhei LIVE Web Camera Data http://212.0.215.106/Orheilive/mpegts
+#EXTINF:0, Donduseni LIVE Web Camera 
+http://212.0.215.106/Dondusenilive/mpegts
+#EXTINF:0, Drochia LIVE Web Camera 
+http://212.0.215.106/Drochialive/mpegts
+#EXTINF:0, Bucuresti LIVE Web Camera 
+https://live.webcamromania.ro/WR065/wrcam_065/playlist.m3u8
